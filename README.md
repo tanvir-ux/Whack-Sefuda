@@ -1,4 +1,5 @@
-## Sefuda Whack-A-Mole! 
+## Whack Sefuda!
+## সেফুদা গেম  
 This is an old* project inspired by **Wes Bos** **Mitri DVP** Whack-A-Mole game. Really fun game!  
 When the Game Start, by clicking on the title, a Mole will "Pop" from a random Hole, with a random duration. Every successful "Whack" will add 1 to the Score. The game ends after 10 seconds have passed.   
 ### Features    
